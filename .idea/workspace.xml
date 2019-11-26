@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5b80cd-1ca3-4577-b098-54f73b928197" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sing-up/sign-up.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sing-up/sing-up.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,16 +29,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TqzyWvTTzWEzop28jLl8LNzzoW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/header" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,15 +55,15 @@
       <recent name="$PROJECT_DIR$/src/components/header" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -89,7 +88,10 @@
       <workItem from="1574552651634" duration="196000" />
       <workItem from="1574552854865" duration="23000" />
       <workItem from="1574552885617" duration="2007000" />
-      <workItem from="1574619082674" duration="9333000" />
+      <workItem from="1574619082674" duration="11335000" />
+      <workItem from="1574789579550" duration="54000" />
+      <workItem from="1574789767330" duration="1900000" />
+      <workItem from="1574792620708" duration="3909000" />
     </task>
     <servers />
   </component>
@@ -108,5 +110,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="173" key="#JavaScript" timestamp="1574793882633">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="440" y="173" key="#JavaScript/0.23.1680.969@0.23.1680.969" timestamp="1574793882633" />
+    <state x="341" y="146" key="SettingsEditor" timestamp="1574789826727">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="341" y="146" key="SettingsEditor/0.23.1680.969@0.23.1680.969" timestamp="1574789826727" />
   </component>
 </project>
