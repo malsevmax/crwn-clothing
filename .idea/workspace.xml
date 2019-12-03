@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5b80cd-1ca3-4577-b098-54f73b928197" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/user/user.reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sing-up/sing-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sing-up/sing-up.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -86,7 +88,15 @@
       <workItem from="1574619082674" duration="11335000" />
       <workItem from="1574789579550" duration="54000" />
       <workItem from="1574789767330" duration="1900000" />
-      <workItem from="1574792620708" duration="5363000" />
+      <workItem from="1574792620708" duration="6132000" />
+      <workItem from="1575316852876" duration="490000" />
+      <workItem from="1575320071209" duration="506000" />
+      <workItem from="1575322145331" duration="64000" />
+      <workItem from="1575322230067" duration="189000" />
+      <workItem from="1575322426303" duration="1729000" />
+      <workItem from="1575324292379" duration="121000" />
+      <workItem from="1575324436485" duration="120000" />
+      <workItem from="1575401610854" duration="184000" />
     </task>
     <servers />
   </component>
@@ -111,9 +121,9 @@
       <screen x="0" y="23" width="1680" height="969" />
     </state>
     <state x="440" y="173" key="#JavaScript/0.23.1680.969@0.23.1680.969" timestamp="1574793882633" />
-    <state x="341" y="146" key="SettingsEditor" timestamp="1574789826727">
+    <state x="683" y="123" key="SettingsEditor" timestamp="1575324546904">
       <screen x="0" y="23" width="1680" height="969" />
     </state>
-    <state x="341" y="146" key="SettingsEditor/0.23.1680.969@0.23.1680.969" timestamp="1574789826727" />
+    <state x="683" y="123" key="SettingsEditor/0.23.1680.969@0.23.1680.969" timestamp="1575324546904" />
   </component>
 </project>
