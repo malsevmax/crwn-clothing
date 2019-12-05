@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5b80cd-1ca3-4577-b098-54f73b928197" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/shopping-bag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="crwn-clothing" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,12 +51,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/pages/homepage" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/header" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/pages/homepage" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -92,6 +106,21 @@
       <workItem from="1575324436485" duration="120000" />
       <workItem from="1575401610854" duration="184000" />
       <workItem from="1575408353637" duration="7000" />
+      <workItem from="1575411437858" duration="480000" />
+      <workItem from="1575411944860" duration="296000" />
+      <workItem from="1575412248336" duration="83000" />
+      <workItem from="1575565996461" duration="1092000" />
+      <workItem from="1575567199483" duration="683000" />
+      <workItem from="1575567930992" duration="74000" />
+      <workItem from="1575568012557" duration="243000" />
+      <workItem from="1575568266571" duration="105000" />
+      <workItem from="1575568379048" duration="105000" />
+      <workItem from="1575568491174" duration="248000" />
+      <workItem from="1575568751396" duration="179000" />
+      <workItem from="1575569471221" duration="391000" />
+      <workItem from="1575569875458" duration="823000" />
+      <workItem from="1575571003398" duration="1996000" />
+      <workItem from="1575573232247" duration="1558000" />
     </task>
     <servers />
   </component>
@@ -112,13 +141,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="173" key="#JavaScript" timestamp="1574793882633">
+    <state x="440" y="173" key="#JavaScript" timestamp="1575571623792">
       <screen x="0" y="23" width="1680" height="969" />
     </state>
-    <state x="440" y="173" key="#JavaScript/0.23.1680.969@0.23.1680.969" timestamp="1574793882633" />
-    <state x="683" y="123" key="SettingsEditor" timestamp="1575324546904">
+    <state x="440" y="173" key="#JavaScript/0.23.1680.969@0.23.1680.969" timestamp="1575571623792" />
+    <state x="573" y="135" key="SettingsEditor" timestamp="1575573224589">
       <screen x="0" y="23" width="1680" height="969" />
     </state>
-    <state x="683" y="123" key="SettingsEditor/0.23.1680.969@0.23.1680.969" timestamp="1575324546904" />
+    <state x="573" y="135" key="SettingsEditor/0.23.1680.969@0.23.1680.969" timestamp="1575573224589" />
   </component>
 </project>
