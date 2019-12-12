@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5b80cd-1ca3-4577-b098-54f73b928197" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/stripe-button/stripe-button.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkout/checkout.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkout/checkout.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +126,7 @@
       <workItem from="1576174995342" duration="66000" />
       <workItem from="1576175068661" duration="181000" />
       <workItem from="1576176144280" duration="956000" />
-      <workItem from="1576178989696" duration="2201000" />
+      <workItem from="1576178989696" duration="4487000" />
     </task>
     <servers />
   </component>
