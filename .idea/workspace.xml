@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5b80cd-1ca3-4577-b098-54f73b928197" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/collection-overview/collection-overview.components.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-overview/collections-overview.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/collection/collection.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/collection/collection.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/directory/directory.reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/directory/directory.selectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/shop/shop.reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/shop/shop.selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/stripe-button/stripe-button.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/shop/shop.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkout/checkout.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkout/checkout.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +44,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -130,7 +119,18 @@
       <workItem from="1575573232247" duration="8898000" />
       <workItem from="1575800759126" duration="13257000" />
       <workItem from="1575992840440" duration="181000" />
-      <workItem from="1576007916862" duration="5964000" />
+      <workItem from="1576007916862" duration="6360000" />
+      <workItem from="1576173737974" duration="12000" />
+      <workItem from="1576173757335" duration="86000" />
+      <workItem from="1576173845379" duration="47000" />
+      <workItem from="1576173901313" duration="95000" />
+      <workItem from="1576174004275" duration="67000" />
+      <workItem from="1576174078994" duration="415000" />
+      <workItem from="1576174910601" duration="77000" />
+      <workItem from="1576174995342" duration="66000" />
+      <workItem from="1576175068661" duration="181000" />
+      <workItem from="1576176144280" duration="956000" />
+      <workItem from="1576178989696" duration="2201000" />
     </task>
     <servers />
   </component>
@@ -155,9 +155,13 @@
       <screen x="0" y="23" width="1680" height="969" />
     </state>
     <state x="440" y="173" key="#JavaScript/0.23.1680.969@0.23.1680.969" timestamp="1575571623792" />
-    <state x="573" y="135" key="SettingsEditor" timestamp="1575573224589">
+    <state x="528" y="242" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576173745765">
       <screen x="0" y="23" width="1680" height="969" />
     </state>
-    <state x="573" y="135" key="SettingsEditor/0.23.1680.969@0.23.1680.969" timestamp="1575573224589" />
+    <state x="528" y="242" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.969@0.23.1680.969" timestamp="1576173745765" />
+    <state x="573" y="135" key="SettingsEditor" timestamp="1576175054433">
+      <screen x="0" y="23" width="1680" height="969" />
+    </state>
+    <state x="573" y="135" key="SettingsEditor/0.23.1680.969@0.23.1680.969" timestamp="1576175054433" />
   </component>
 </project>
